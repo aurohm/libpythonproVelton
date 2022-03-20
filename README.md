@@ -1,5 +1,5 @@
 # libpythonproVelton
-Módulo para as aulas de construção de projeto com Pytools 
+Módulo para as aulas de construção de projeto com Pytools do curso Python Pro
 
 Para instalar:
 ````console
