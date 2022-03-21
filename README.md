@@ -12,4 +12,6 @@ Para conferir a qualidade do código:
 flake8
 ```
 
+Utilizado o GA para Integração Continua
+
 Suportado a versão 3 de Python
