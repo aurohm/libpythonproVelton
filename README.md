@@ -19,3 +19,5 @@ flake8
 Utilizado o GA para Integração Continua
 
 Suportado a versão 3 de Python
+
+Teste para commitar
