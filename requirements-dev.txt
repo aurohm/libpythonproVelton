@@ -6,5 +6,5 @@ pyflakes==2.4.0
 tomli==1.0.0p
 py==1.8.2
 attrs==19.2.0
-pyparsing!=3.0.5,2.0.2
+pyparsing==2.0.2
 -r requirements.txt
