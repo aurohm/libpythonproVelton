@@ -3,7 +3,11 @@ mccabe==0.6.1
 pycodestyle==2.8.0
 pyflakes==2.4.0
 #Deps do Pytest
-py==1.8.2
+pytest
+coverage
+pytest-cov
+codecov
+py==1.11.0
 attrs==19.2.0
 pyparsing==2.0.2
 tomli==2.0.0

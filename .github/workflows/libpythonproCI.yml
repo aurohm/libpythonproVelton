@@ -17,4 +17,5 @@ jobs:
         run: |
           flake8
       - name: Test with pytest
-        run: pytest libpythonproVelton
+    - name: Test with pytest
+      run: pytest libpythonproVelton --cov=libpythonproVelton
