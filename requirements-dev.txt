@@ -7,4 +7,6 @@ tomli==1.0.0p
 py==1.8.2
 attrs==19.2.0
 pyparsing==2.0.2
+covarage==6.3.2
+pytest-cov==3.0.0
 -r requirements.txt

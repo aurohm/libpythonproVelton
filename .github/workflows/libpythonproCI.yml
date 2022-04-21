@@ -16,4 +16,5 @@ jobs:
       - name: Lint with flake8
         run: |
           flake8
-          pytest libpythonproVelton
+      - name: Test with pytest
+        run: pytest libpythonproVelton --cov=libpythonproVelton
