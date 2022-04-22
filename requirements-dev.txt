@@ -4,7 +4,7 @@ pycodestyle==2.8.0
 pyflakes==2.4.0
 #Deps do Pytest
 pytest
-coverage
+coverage==6.3.2
 pytest-cov
 codecov
 py==1.11.0
