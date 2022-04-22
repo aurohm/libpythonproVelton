@@ -10,5 +10,5 @@ codecov
 py==1.11.0
 attrs==19.2.0
 pyparsing==2.0.2
-tomli==2.0.0
+tomli==2.0.1
 -r requirements.txt
