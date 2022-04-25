@@ -15,6 +15,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements-dev.txt
+        pip install pytest-cov
     - name: Lint with flake8
       run: |
         # stop the build if there are Python syntax errors or undefined names 
@@ -28,3 +29,7 @@ jobs:
         CODECOV_TOKEN= '712dabeb-b2b7-4924-8202-9636769b8fac'
       run: |
         codecov
+      run: |
+        pip install pytest-cov
+    - name: Codecov
+      uses: codecov/codecov-action@v2.1.0
