@@ -25,6 +25,6 @@ jobs:
       run: pytest libpythonproVelton --cov=libpythonproVelton
     - name: Relatório Codecov
       env:
-        CODECOV_TOKEN='712dabeb-b2b7-4924-8202-9636769b8fac'
+        CODECOV_TOKEN= '712dabeb-b2b7-4924-8202-9636769b8fac'
       run: |
         codecov
