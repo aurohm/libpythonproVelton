@@ -25,5 +25,6 @@ jobs:
     - name: Test with pytest
       run: |
         pip install pytest-cov
-    - name: Codecov
-      uses: codecov/codecov-action@v2.1.0
+    - name: Relatório Codecov
+      run: |
+        codecov
