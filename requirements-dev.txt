@@ -10,6 +10,6 @@ pytest-cov==3.0.0
 codecov
 py==1.11.0
 attrs==19.2.0
-pyparsing==2.0.2
+pyparsing==3.0.9
 tomli==2.0.0
 -r requirements.txt
